@@ -2,10 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## et mercé la zone
+## Festival prevu cet été 
 
-* Fait le signe bwo
-* Grosse dédicace a ma team que j'aime
+* 
+* 
 
 
 ## tié de la team JUL (sinon dégage)
